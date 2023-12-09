@@ -1,0 +1,17 @@
+group,area,percentage,label
+11,416150.7373,0.0515,Open Water
+12,433,0.0001,Perennial Ice/Snow
+21,62781.0196,0.0078,Developed
+22,78216.7725,0.0097,"Developed, Low Intensity"
+23,57534.7216,0.0071,"Developed, Medium Intensity"
+24,16607.1922,0.0021,Developed High Intensity
+31,65843.702,0.0081,Barren Land (Rock/Sand/Clay)
+41,840676.6039,0.104,Deciduous Forest
+42,1000173.208,0.1238,Evergreen Forest
+43,197502.9529,0.0244,Mixed Forest
+52,1774486.859,0.2196,Shrub/Scrub
+71,1102616.118,0.1365,Grassland/Herbaceous
+81,567228.1137,0.0702,Pasture/Hay
+82,1451946.153,0.1797,Cultivated Crops
+90,359638.2549,0.0445,Woody Wetlands
+95,88371.2078,0.0109,Emergent Herbaceous Wetlands

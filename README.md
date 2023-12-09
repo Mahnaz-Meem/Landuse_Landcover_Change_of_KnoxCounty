@@ -45,7 +45,6 @@ Please click on the link to open, visualize and interact with the Google Colab. 
 
 [Link](https://colab.research.google.com/drive/1AGVE9OjMVWLqlxJ5G2PoGolDbeNRdYUp?usp=sharing)
 
-<img src="Visualization/nlcd21pic.jpg" width="900" height="600">
 
 ## Slides
 Please click on the link to visualize the Canva presentation.
